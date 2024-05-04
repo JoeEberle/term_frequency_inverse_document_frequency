@@ -18,9 +18,9 @@ TF-IDF helps identify important terms within a document by giving higher weights
 
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each ptyhon function
+- **Self Testing** - Unit Testing for each function
 - **Easily Configurable** -easily modifyable with config.INI name value pairs
-- **Includes Talking Code** - The code explains itself.
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - enhanced python standard logging   
 - **Self Debugging** - enhanced python standard debugging
 - **Low Code - or - No Code** - Most solutions are under 50 lines of code
@@ -38,4 +38,4 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](term_frequency_inverse_document_frequency.png)  <br>
+    ## Deliverables or Figures![additional_image](term_frequency_inverse_document_frequency.png)  <br>

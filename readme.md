@@ -48,5 +48,5 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>![additional_image](term_frequency_inverse_document_frequency.png)  <br>
+ ![additional_image](term_frequency_inverse_document_frequency.png)  <br>
     

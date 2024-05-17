@@ -36,7 +36,7 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](term_frequency_inverse_document_frequency.png)  <br>
+ ![additional_image](term_frequency_inverse_document_frequency.png)  <br>![additional_image](TF-IDF.png)  <br>
     
 
 ## Github    

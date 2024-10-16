@@ -39,11 +39,8 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
  ![additional_image](term_frequency_inverse_document_frequency.png)  <br>![additional_image](TF-IDF.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)

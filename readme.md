@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Term Frequency Inverse Document Frequency - TF-IDF helps identify important terms within a document by giving higher weights to terms that are frequent in the document but rare in the corpus![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Term Frequency Inverse Document Frequency 
+    ## TF-IDF helps identify important terms within a document by giving higher weights to terms that are frequent in the document but rare in the corpus
+    ![Image image_filename](code.png)
 Welcome to the solution **Term Frequency Inverse Document Frequency** - an example for your projects
 
 TF-IDF helps identify important terms within a document by giving higher weights to terms that are frequent in the document but rare in the corpus
@@ -12,12 +15,15 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 

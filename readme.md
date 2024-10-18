@@ -4,6 +4,9 @@ Welcome to the solution **Term Frequency Inverse Document Frequency** - an examp
 TF-IDF helps identify important terms within a document by giving higher weights to terms that are frequent in the document but rare in the corpus
 ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Term Frequency Inverse Document Frequency** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -18,7 +21,7 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function

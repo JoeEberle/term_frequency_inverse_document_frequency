@@ -51,13 +51,3 @@ To get started with the **Term Frequency Inverse Document Frequency** solution r
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](term_frequency_inverse_document_frequency.png)  <br>![additional_image](TF-IDF.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
